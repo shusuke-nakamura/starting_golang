@@ -151,6 +151,30 @@
 			"path": "ch05/p240",
 			"name": "ch05_p240"
 		},
+		{
+			"path": "ch06/p247-1",
+			"name": "ch06_p247-1"
+		},
+		{
+			"path": "ch06/p247-2",
+			"name": "ch06_p247-2"
+		},
+		{
+			"path": "ch06/p251",
+			"name": "ch06_p251"
+		},
+		{
+			"path": "ch06/p265",
+			"name": "ch06_p265"
+		},
+		{
+			"path": "ch06/p266",
+			"name": "ch06_p266"
+		},
+		{
+			"path": "ch06/p269",
+			"name": "ch06_p269"
+		},
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
