@@ -4,47 +4,133 @@
 			"path": "."
 		},
 		{
-			"path": "ch02/p032-033/zoo"
+			"path": "ch02/p032-033/zoo",
+			"name": "ch02_p032-033_zoo"
 		},
 		{
-			"path": "ch02/p036-037/zoo"
+			"path": "ch02/p036-037/zoo",
+			"name": "ch02_p036-037_zoo"
 		},
 		{
-			"path": "ch02/p038"
+			"path": "ch02/p038",
+			"name": "ch02_p038"
 		},
 		{
-			"path": "ch02/p039/zoo"
+			"path": "ch02/p039/zoo",
+			"name": "ch02_p039_zoo"
 		},
 		{
-			"path": "ch02/p039/zoo/animals"
+			"path": "ch02/p039/zoo/animals",
+			"name": "ch02_p039_zoo_animals"
 		},
 		{
-			"path": "ch03/p047-1"
+			"path": "ch03/p047-1",
+			"name": "ch03_p047-1"
 		},
 		{
-			"path": "ch03/p047-2"
+			"path": "ch03/p047-2",
+			"name": "ch03_p047-2"
 		},
 		{
-			"path": "ch03/p048"
+			"path": "ch03/p048",
+			"name": "ch03_p048"
 		},
 		{
-			"path": "ch03/p061"
+			"path": "ch03/p061",
+			"name": "ch03_p061"
 		},
 		{
-			"path": "ch03/p069"
+			"path": "ch03/p069",
+			"name": "ch03_p069"
 		},
 		{
-			"path": "ch03/p073"
+			"path": "ch03/p073",
+			"name": "ch03_p073"
 		},
 		{
-			"path": "ch03/p098"
+			"path": "ch03/p098",
+			"name": "ch03_p098"
 		},
 		{
-			"path": "ch03/p100"
+			"path": "ch03/p100",
+			"name": "ch03_p100"
+		},
+		{
+			"path": "ch03/p103",
+			"name": "ch03_p103"
+		},
+		{
+			"path": "ch03/p104",
+			"name": "ch03_p104"
+		},
+		{
+			"path": "ch03/p105",
+			"name": "ch03_p105"
+		},
+		{
+			"path": "ch03/p106",
+			"name": "ch03_p106"
+		},
+		{
+			"path": "ch03/p108",
+			"name": "ch03_p108"
 		}
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
+		"code-runner.executorMap": {
+			"javascript": "node",
+			"java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
+			"c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+			"cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+			"objective-c": "cd $dir && gcc -framework Cocoa $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+			"php": "php",
+			"python": "python -u",
+			"perl": "perl",
+			"perl6": "perl6",
+			"ruby": "ruby",
+			"go": "cd $dir && go run !(*_test).go",
+			"lua": "lua",
+			"groovy": "groovy",
+			"powershell": "powershell -ExecutionPolicy ByPass -File",
+			"bat": "cmd /c",
+			"shellscript": "bash",
+			"fsharp": "fsi",
+			"csharp": "scriptcs",
+			"vbscript": "cscript //Nologo",
+			"typescript": "ts-node",
+			"coffeescript": "coffee",
+			"scala": "scala",
+			"swift": "swift",
+			"julia": "julia",
+			"crystal": "crystal",
+			"ocaml": "ocaml",
+			"r": "Rscript",
+			"applescript": "osascript",
+			"clojure": "lein exec",
+			"haxe": "haxe --cwd $dirWithoutTrailingSlash --run $fileNameWithoutExt",
+			"rust": "cd $dir && rustc $fileName && $dir$fileNameWithoutExt",
+			"racket": "racket",
+			"scheme": "csi -script",
+			"ahk": "autohotkey",
+			"autoit": "autoit3",
+			"dart": "dart",
+			"pascal": "cd $dir && fpc $fileName && $dir$fileNameWithoutExt",
+			"d": "cd $dir && dmd $fileName && $dir$fileNameWithoutExt",
+			"haskell": "runhaskell",
+			"nim": "nim compile --verbosity:0 --hints:off --run",
+			"lisp": "sbcl --script",
+			"kit": "kitc --run",
+			"v": "v run",
+			"sass": "sass --style expanded",
+			"scss": "scss --style expanded",
+			"less": "cd $dir && lessc $fileName $fileNameWithoutExt.css",
+			"FortranFreeForm": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+			"fortran-modern": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+			"fortran_fixed-form": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+			"fortran": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+			"sml": "cd $dir && sml $fileName"
+		},
 		"go.toolsEnvVars": {"GO111MODULE": "on"},
 		"go.useLanguageServer": true
 	}
