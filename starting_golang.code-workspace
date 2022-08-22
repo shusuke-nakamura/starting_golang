@@ -18,7 +18,31 @@
 		{
 			"name": "ch02_p039_zoo",
 			"path": "ch02/p039/zoo"
-		}
+		},
+		{
+			"name": "ch03_p047_1",
+			"path": "ch03/p047-1"
+		},
+		{
+			"name": "ch03_p047_2",
+			"path": "ch03/p047-2"
+		},
+		{
+			"name": "ch03_p048",
+			"path": "ch03/p048"
+		},
+		{
+			"name": "ch03_p061",
+			"path": "ch03/p061"
+		},
+		{
+			"name": "ch03_p069",
+			"path": "ch03/p069"
+		},
+		{
+			"name": "ch03_p073",
+			"path": "ch03/p073"
+		},
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
