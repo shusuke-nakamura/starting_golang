@@ -2,6 +2,22 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "ch02_p026",
+			"path": "ch02/p026"
+		},
+		{
+			"name": "ch02_p032_033_zoo",
+			"path": "ch02/p032-033/zoo"
+		},
+		{
+			"name": "ch02_p036_037_zoo",
+			"path": "ch02/p036-037/zoo"
+		},
+		{
+			"name": "ch02_p039_zoo",
+			"path": "ch02/p039/zoo"
 		}
 	],
 	"settings": {
