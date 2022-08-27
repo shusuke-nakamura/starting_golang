@@ -51,6 +51,38 @@
 			"name": "ch03_p100",
 			"path": "ch03/p100"
 		},
+		{
+			"name": "ch03_p103",
+			"path": "ch03/p103"
+		},
+		{
+			"name": "ch03_p104",
+			"path": "ch03/p104"
+		},
+		{
+			"name": "ch03_p105",
+			"path": "ch03/p105"
+		},
+		{
+			"name": "ch03_p106",
+			"path": "ch03/p106"
+		},
+		{
+			"name": "ch03_p108",
+			"path": "ch03/p108"
+		},
+		{
+			"name": "ch03_p109",
+			"path": "ch03/p109"
+		},
+		{
+			"name": "ch03_p118",
+			"path": "ch03/p118"
+		},
+		{
+			"name": "ch03_p120_121",
+			"path": "ch03/p120-121"
+		},
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
