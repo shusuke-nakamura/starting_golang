@@ -83,6 +83,30 @@
 			"name": "ch03_p120_121",
 			"path": "ch03/p120-121"
 		},
+		{
+			"name": "ch03_p121",
+			"path": "ch03/p121"
+		},
+		{
+			"name": "ch03_p123",
+			"path": "ch03/p123"
+		},
+		{
+			"name": "ch03_p150",
+			"path": "ch03/p150"
+		},
+		{
+			"name": "ch03_p153",
+			"path": "ch03/p153"
+		},
+		{
+			"name": "ch03_p154",
+			"path": "ch03/p154"
+		},
+		{
+			"name": "ch03_p155",
+			"path": "ch03/p155"
+		},
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
