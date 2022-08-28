@@ -135,6 +135,14 @@
 			"name": "ch05_p240",
 			"path": "ch05/p240"
 		},
+		{
+			"name": "ch06_p251",
+			"path": "ch06/p251"
+		},
+		{
+			"name": "ch06_p265_266",
+			"path": "ch06/p265-266"
+		},
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
