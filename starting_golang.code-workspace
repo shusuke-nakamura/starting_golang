@@ -115,6 +115,26 @@
 			"name": "ch04_p191",
 			"path": "ch04/p191"
 		},
+		{
+			"name": "ch05_p201",
+			"path": "ch05/p201"
+		},
+		{
+			"name": "ch05_p229_230",
+			"path": "ch05/p229-230"
+		},
+		{
+			"name": "ch05_p233",
+			"path": "ch05/p233"
+		},
+		{
+			"name": "ch05_p234",
+			"path": "ch05/p234"
+		},
+		{
+			"name": "ch05_p240",
+			"path": "ch05/p240"
+		},
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
