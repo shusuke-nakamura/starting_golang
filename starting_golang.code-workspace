@@ -107,6 +107,14 @@
 			"name": "ch03_p155",
 			"path": "ch03/p155"
 		},
+		{
+			"name": "ch04_p187",
+			"path": "ch04/p187"
+		},
+		{
+			"name": "ch04_p191",
+			"path": "ch04/p191"
+		},
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
