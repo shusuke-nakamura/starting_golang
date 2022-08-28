@@ -143,6 +143,22 @@
 			"name": "ch06_p265_266",
 			"path": "ch06/p265-266"
 		},
+		{
+			"name": "ch07_p274",
+			"path": "ch07/p274"
+		},
+		{
+			"name": "ch07_p299",
+			"path": "ch07/p299"
+		},
+		{
+			"name": "ch07_p301",
+			"path": "ch07/p301"
+		},
+		{
+			"name": "ch07_p304",
+			"path": "ch07/p304"
+		},
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
