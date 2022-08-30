@@ -159,6 +159,30 @@
 			"name": "ch07_p304",
 			"path": "ch07/p304"
 		},
+		{
+			"name": "ch07_p307",
+			"path": "ch07/p307"
+		},
+		{
+			"name": "ch07_p321",
+			"path": "ch07/p321"
+		},
+		{
+			"name": "ch07_p322-1",
+			"path": "ch07/p322-1"
+		},
+		{
+			"name": "ch07_p322-2",
+			"path": "ch07/p322-2"
+		},
+		{
+			"name": "ch07_p325-1",
+			"path": "ch07/p325-1"
+		},
+		{
+			"name": "ch07_p325-2",
+			"path": "ch07/p325-2"
+		},
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
