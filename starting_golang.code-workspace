@@ -183,6 +183,22 @@
 			"name": "ch07_p325-2",
 			"path": "ch07/p325-2"
 		},
+		{
+			"name": "ch07_p326",
+			"path": "ch07/p326"
+		},
+		{
+			"name": "ch07_p336",
+			"path": "ch07/p336"
+		},
+		{
+			"name": "ch07_p337",
+			"path": "ch07/p337"
+		},
+		{
+			"name": "ch07_p340",
+			"path": "ch07/p340"
+		},
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
